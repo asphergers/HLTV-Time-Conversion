@@ -1,0 +1,13 @@
+.matchTime {
+    font-size: 12px;
+    line-height: 1;
+    white-space: nowrap;
+    padding-bottom: 4px;
+}
+
+span[data-time-format] {
+    font-size: 9px;
+    line-height: 1;
+    white-space: nowrap;
+    padding-bottom: 4px; 
+}
